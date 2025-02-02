@@ -92,7 +92,7 @@ My professional resume hosted on GitHub.
 - Maintained detailed records of sales, purchases, and inventory to ensure smooth business operations.
 - Provided regular updates to stakeholders on sales performance and business growth.
 
-Key Skills and Achievements:
+- **Key Skills and Achievements:**
 - Proficient in ERP software and Arabic accounting tools, ensuring seamless financial operations in a bilingual environment.
 - Strong expertise in financial reconciliation, budget management, and compliance reporting.
 - Skilled in online sales management, inventory control, and customer relationship management.
@@ -199,10 +199,10 @@ Key Skills and Achievements:
 ---
 
 ## 📫 Let's Connect!  
-- **LinkedIn:** [[LinkedIn Profile Link](https://www.linkedin.com/in/muhammad-akbar-45752470/)]  
+- **LinkedIn:** [(https://www.linkedin.com/in/muhammad-akbar-45752470/)]  
 - **GitHub:** [GitHub Profile Link]  
 - **Portfolio:** [Portfolio Website Link]  
-- **Email:** [[Email Address](infolmakbar@gmail.com)]  
+- **Email:** [(infolmakbar@gmail.com)]  
 
 ---
 
