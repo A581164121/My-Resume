@@ -73,6 +73,31 @@ My professional resume hosted on GitHub.
 
 **[01-07-2024] - [On Holy Days in Pakistan]**
 
+- Managed daily financial operations, including tracking and reconciling tickets booked through the Head Office and travel agent IDs.
+- Monitored and maintained accurate records of airline bookings by extracting data from airline websites and entering it into the company’s ERP software.
+- Prepared and distributed daily payment statements to travel agents, ensuring timely follow-ups for outstanding payments.
+- Oversaw office expenses, including tracking, recording, and reporting all financial transactions to maintain accurate budgetary control.
+- Collaborated with travel agents and internal teams to resolve payment discrepancies and ensure smooth financial operations.
+- Maintained organized and up-to-date financial records, ensuring compliance with company policies and industry regulations.
+- Utilized ERP software to streamline accounting processes, improving efficiency and accuracy in financial reporting.
+- Provided regular updates to management on financial performance, agent payments, and expense management.
+
+- **Wholesaler – High-Quality Polyester and Sponge Products**
+
+- Managed online sales and handled all dealings as a wholesaler of high-quality polyester and sponge products.
+- Built and maintained strong relationships with clients, ensuring timely delivery and customer satisfaction.
+- Oversaw inventory management, ensuring accurate stock levels and efficient order fulfillment.
+- Processed online orders, managed payments, and resolved any customer inquiries or issues promptly.
+- Utilized digital platforms to market products, expand the customer base, and increase sales.
+- Maintained detailed records of sales, purchases, and inventory to ensure smooth business operations.
+- Provided regular updates to stakeholders on sales performance and business growth.
+
+Key Skills and Achievements:
+- Proficient in ERP software and Arabic accounting tools, ensuring seamless financial operations in a bilingual environment.
+- Strong expertise in financial reconciliation, budget management, and compliance reporting.
+- Skilled in online sales management, inventory control, and customer relationship management.
+- Proven ability to handle multiple responsibilities, including accounting and wholesale operations, with a focus on accuracy and efficiency.
+
 ## 🏆 Work Experience  
 **Account's Manager**  
 **[Azla Travels & Tourism]** – [Riyadh, Saudi Arabia]  
@@ -142,14 +167,14 @@ My professional resume hosted on GitHub.
 ## 🏆 Projects  
 
 ### **[Project Name]**  
-- **Description:** [Brief description of the project, e.g., "A web-based task management tool built with React and Node.js."]  
-- **Technologies Used:** React, Node.js, MongoDB  
-- **GitHub Link:** [Link to the project repository]  
+- **Description:**  
+- **Technologies Used:**  
+- **GitHub Link:**  
 
 ### **[Project Name]**  
-- **Description:** [Brief description of the project, e.g., "A mobile app for tracking daily expenses."]  
-- **Technologies Used:** Flutter, Firebase  
-- **GitHub Link:** [Link to the project repository]  
+- **Description:**  
+- **Technologies Used:** 
+- **GitHub Link:**  
 
 ---
 
@@ -161,16 +186,23 @@ My professional resume hosted on GitHub.
 ---
 
 ## 📄 Certifications  
-- **Certification Name** –   
-- **Certification Name** –  
+- **Certification Introduction to Cybersecurity Awareness** –   
+- **Certification Data Science & Analystics** –  
+- **Certification AI Beginners** –
+- **Certification Planning a Generative AI Project** –  
+- **Certification Introduction to Generatie AI - Art of the Possible** –
+- **Certification Effective Leadership** –  
+- **Certification Marketing Target Audienc** –
+- **Certification Selling Online** –  
+- **Certification AL Quwa AL Aula Elevator** –  
 
 ---
 
 ## 📫 Let's Connect!  
-- **LinkedIn:** [LinkedIn Profile Link]  
+- **LinkedIn:** [[LinkedIn Profile Link](https://www.linkedin.com/in/muhammad-akbar-45752470/)]  
 - **GitHub:** [GitHub Profile Link]  
 - **Portfolio:** [Portfolio Website Link]  
-- **Email:** [Email Address]  
+- **Email:** [[Email Address](infolmakbar@gmail.com)]  
 
 ---
 
