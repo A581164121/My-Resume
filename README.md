@@ -200,7 +200,7 @@ My professional resume hosted on GitHub.
 
 ## 📫 Let's Connect!  
 - **LinkedIn:** [(https://www.linkedin.com/in/muhammad-akbar-45752470/)]  
-- **GitHub:** [GitHub Profile Link]  
+- **GitHub:** [(https://github.com/A581164121/My-Resume/blob/main/README.md)]  
 - **Portfolio:** [Portfolio Website Link]  
 - **Email:** [(infolmakbar@gmail.com)]  
 
