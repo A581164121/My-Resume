@@ -36,7 +36,7 @@
 - **Financial Data Analysis**
 - **ERP Systems Knowledge**
 - **AI Tools for Financial Automation**
-- **Programming Languages:** Python, C#
+- **Programming Languages:** Python, C++
 - **Web Development:** HTML, CSS, React
 
 ---
