@@ -1,21 +1,19 @@
-# My-Resume
-My professional resume hosted on GitHub.
-# [MUHAMMAD AKBAR]
-#### Accountant | [Buraydah, Al Qasim, Saudi Arabia] | [infolmakbar@gmai.com] | [+966 581164121] | [(https://www.linkedin.com/in/muhammad-akbar-45752470/)]
-
+# MUHAMMAD AKBAR AZIZI
+## Accountant 
+#### | [Buraydah, Al Qasim, Saudi Arabia] | [infolmakbar@gmai.com] | [+966 581164121]
+#### | [Karachi, Pakitan] | [infolmakbar@gmai.com] | [+92 317 5440110]
 ---
 
 ## 👨‍💻 Professional Summary  
-- **I am excited to apply with over 10 years of experience as an accountant and a growing expertise in digital marketing and AI-driven content creation; I bring a unique blend of financial knowledge and modern digital skills that can add significant value to your organization.**
+- **I am eager to leverage my analytical skills and passion for technology to transition into a new career in Artificial Intelligence (AI). With a Master’s degree in AI in progress, I am gaining expertise in AI-driven tools, data analysis, and digital marketing strategies. My goal is to combine my financial acumen with AI knowledge to contribute to innovative solutions in the tech industry..**
 
-- **Throughout my career, I have specialized in areas such as general accounting, financial statements, data entry, accounts payable and receivable, file management, and bookkeeping. My goal has always been to build long-term relationships with organizations, ensuring financial accuracy and contributing to their growth.**
+- **Throughout my career, over 10 years of experience in financial operations, including tracking and reconciling transactions, managing budgets, and ensuring compliance with industry regulations. I have specialized in areas such as general accounting, financial statements, data entry, accounts payable and receivable, file management, and bookkeeping. My goal has always been to build long-term relationships with organizations, ensuring financial accuracy and contributing to their growth. My expertise includes using ERP software and Arabic accounting tools to streamline processes and maintain accurate financial records. Additionally, I have successfully managed an online wholesale business, specializing in high-quality polyester and sponge products, where I handled sales, inventory, and customer relationships with a focus on efficiency and growth.**
 
 - **In addition to my accounting expertise, I am currently working toward a Master’s degree in Artificial Intelligence to further enhance my skill set. This has allowed me to dive into the world of digital marketing, where I’ve mastered strategies like Google AdSense, blogging, and Meta marketing across platforms such as YouTube, Facebook, TikTok, and WhatsApp. I also create engaging content and videos for clients, helping them establish a strong presence in the digital space.**
 
-- **I run several YouTube and Facebook pages for clients, focusing on boosting their online visibility and engagement. Additionally, I leverage AI tools to craft high-quality writing, original articles and content. My ability to humanize AI-generated text ensure it passes AI detection tools, maintaining 100% originality while saving time.**
+- **In free time I am running several YouTube and Facebook pages for clients, focusing on boosting their online visibility and engagement. Additionally, I leverage AI tools to craft high-quality writing, original articles and content. My ability to humanize AI-generated text ensure it passes AI detection tools, maintaining 100% originality while saving time.**
 
 - **What sets me apart is my ability to bridge traditional financial expertise with cutting-edge digital skills. I am confident that my diverse experience and proactive approach can help your organization to achieve its goals in both financial management and digital innovation.**
-.
 
 ---
 
@@ -148,19 +146,8 @@ My professional resume hosted on GitHub.
 ---
 
 ## 🎓 Education
-### ** Mastering in Generative AI - [Google]
-### **[Master in Business Administration - [Univesity of Karachi]
+### ** Mastering in Generative AI Future - [Google]
 ### **[Bachelor of Commerce]**  - [Univesity of Karachi]
-  
-- **Relevant Coursework:**
-- AI Prompt AI Prompt Engineer
-- Data Science & Analystics
-- Machine Learing: Pythone & GitHub
-- Microsoft Office 
-- E-mail Correspodence
-- Geust Blog Posting
-- Content Writing
-- Freelancing 
 
 ---
 
