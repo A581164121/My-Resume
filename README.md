@@ -1,7 +1,9 @@
 # MUHAMMAD AKBAR AZIZI
 ## Accountant 
-#### | [Buraydah, Al Qasim, Saudi Arabia] | [infolmakbar@gmai.com] | [+966 581164121]
-#### | [Karachi, Pakistan] | [infolmakbar@gmai.com] | [+92 317 5440110]
+####  Buraydah, Al Qasim, Saudi Arabia. 📱 +966 581164121 
+####  Karachi, Pakistan. 📱 +92 317 5440110 
+####  infolmakbar@gmai.com
+
 ---
 
 ## 👨‍💻 Professional Summary  
@@ -147,7 +149,7 @@
 
 ## 🎓 Education
 ### ** Mastering in Generative AI Future - [Google]
-### **[Bachelor of Commerce]**  - [Univesity of Karachi]
+### ** Bachelor of Commerce  - [Univesity of Karachi]
 
 ---
 
