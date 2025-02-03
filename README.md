@@ -173,35 +173,34 @@
 ---
 
 ## 🔋 Certifications  
-- **Certification in Business Communications** –
-- **Certification in Inventory Management** –
-- **Certification in IT for Business Success** –
-- **Certification in Customer Relationship Management** –
-- **Certification in Success Mindset** –
-- **Certification in Social Media Marketing** –
-- **Certification in Basics if Finance** –
-- **Certification in Effective Business Websites** –
-- **Certification in Cash Flow** –
-- **Certification in Customer Experience (CR) for Business Success** –
-- **Certification in Unique Value Propostion** –
-- **Certification in Effective Presentations** –
-- **Certification in Introduction to Digital Business Skills** –
-- **Certification in Data Science & Analytics** –  
-- **Certification in Effective Leadership** –
-- **Certification in Agile Progect Managment** –
+- **Certification in Business Communications** 
+- **Certification in Inventory Management** 
+- **Certification in IT for Business Success** 
+- **Certification in Customer Relationship Management** 
+- **Certification in Success Mindset** 
+- **Certification in Social Media Marketing** 
+- **Certification in Basics if Finance** 
+- **Certification in Effective Business Websites** 
+- **Certification in Cash Flow** 
+- **Certification in Customer Experience (CR) for Business Success** 
+- **Certification in Unique Value Propostion** 
+- **Certification in Effective Presentations** 
+- **Certification in Introduction to Digital Business Skills** 
+- **Certification in Data Science & Analytics** 
+- **Certification in Effective Leadership** 
+- **Certification in Agile Progect Managment** 
 - **Certification in Circular Economy** –
-- **Certification in Starting a Small Business** –
-- **Certification in Selling Online** –
-- **Certification in Your Target Audience** –
-- **Certification in Business Email** –
-- **Certification in Introduction to Sybersecurity Awareness** –
-- **Certification in AI for Biginners** - 
-- **Certification in Planning a Generative AI Project** –  
-- **Certification in Introduction to Generatie AI - Art of the Possible** –
-- **Certification in Effective Leadership** –  
-- **Certification in Marketing Target Audienc** –
-- **Certification in Selling Online** –  
-  
+- **Certification in Starting a Small Business** 
+- **Certification in Selling Online** 
+- **Certification in Your Target Audience** 
+- **Certification in Business Email** 
+- **Certification in Introduction to Sybersecurity Awareness** 
+- **Certification in AI for Biginners** 
+- **Certification in Planning a Generative AI Project** 
+- **Certification in Introduction to Generatie AI - Art of the Possible** 
+- **Certification in Effective Leadership** 
+- **Certification in Marketing Target Audienc** 
+- **Certification in Selling Online** 
 
 ---
 
