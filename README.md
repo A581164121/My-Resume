@@ -1,7 +1,7 @@
 # MUHAMMAD AKBAR AZIZI
 ## Accountant 
 #### | [Buraydah, Al Qasim, Saudi Arabia] | [infolmakbar@gmai.com] | [+966 581164121]
-#### | [Karachi, Pakitan] | [infolmakbar@gmai.com] | [+92 317 5440110]
+#### | [Karachi, Pakistan] | [infolmakbar@gmai.com] | [+92 317 5440110]
 ---
 
 ## 👨‍💻 Professional Summary  
