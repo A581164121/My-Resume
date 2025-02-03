@@ -149,7 +149,7 @@ My professional resume hosted on GitHub.
 
 ## 🎓 Education
 ### ** Mastering in Generative AI - [Google]
-### **[Master Dgree in Business Administration - [Univesity of Karachi]
+### **[Master in Business Administration - [Univesity of Karachi]
 ### **[Bachelor of Commerce]**  - [Univesity of Karachi]
   
 - **Relevant Coursework:**
@@ -179,22 +179,42 @@ My professional resume hosted on GitHub.
 ---
 
 ## 🌟 Achievements  
-- Awarded "Best Project" at   
-- Published an article on [Topic]   
-- Contributed to
-
+- Badge Awarded Digital Skills Builder [(https://www.life-global.org/en/badges/eb7cc2e4-5c7a-4f71-bb37-2fc5a2ed975d)]   
+- Badge Awarded HP LIFE Ambassador [(https://www.life-global.org/en/badges/38e21467-d354-4d90-b073-e2fbcd99639a)]
+- Badge Awarded Career Explorer [(https://www.life-global.org/en/badges/d3603794-2e00-4c88-9dcb-979487a37d8a)]
+- Badge Awarded Operational Aspects [(https://www.life-global.org/en/badges/4a459c27-da83-4ff8-ac0e-2aa3305a57cf)]
 ---
 
-## 📄 Certifications  
-- **Certification Introduction to Cybersecurity Awareness** –   
-- **Certification Data Science & Analystics** –  
-- **Certification AI Beginners** –
-- **Certification Planning a Generative AI Project** –  
-- **Certification Introduction to Generatie AI - Art of the Possible** –
-- **Certification Effective Leadership** –  
-- **Certification Marketing Target Audienc** –
-- **Certification Selling Online** –  
-- **Certification AL Quwa AL Aula Elevator** –  
+## 🔋 Certifications  
+- **Certification in Business Communications** –
+- **Certification in Inventory Management** –
+- **Certification in IT for Business Success** –
+- **Certification in Customer Relationship Management** –
+- **Certification in Success Mindset** –
+- **Certification in Social Media Marketing** –
+- **Certification in Basics if Finance** –
+- **Certification in Effective Business Websites** –
+- **Certification in Cash Flow** –
+- **Certification in Customer Experience (CR) for Business Success** –
+- **Certification in Unique Value Propostion** –
+- **Certification in Effective Presentations** –
+- **Certification in Introduction to Digital Business Skills** –
+- **Certification in Data Science & Analytics** –  
+- **Certification in Effective Leadership** –
+- **Certification in Agile Progect Managment** –
+- **Certification in Circular Economy** –
+- **Certification in Starting a Small Business** –
+- **Certification in Selling Online** –
+- **Certification in Your Target Audience** –
+- **Certification in Business Email** –
+- **Certification in Introduction to Sybersecurity Awareness** –
+- **Certification in AI for Biginners** - 
+- **Certification in Planning a Generative AI Project** –  
+- **Certification in Introduction to Generatie AI - Art of the Possible** –
+- **Certification in Effective Leadership** –  
+- **Certification in Marketing Target Audienc** –
+- **Certification in Selling Online** –  
+  
 
 ---
 
