@@ -82,7 +82,7 @@
 - Utilized ERP software to streamline accounting processes, improving efficiency and accuracy in financial reporting.
 - Provided regular updates to management on financial performance, agent payments, and expense management.
 
-- **Wholesaler – High-Quality Polyester and Sponge Products**
+ **Wholesaler – High-Quality Polyester and Sponge Products**
 
 - Managed online sales and handled all dealings as a wholesaler of high-quality polyester and sponge products.
 - Built and maintained strong relationships with clients, ensuring timely delivery and customer satisfaction.
@@ -92,7 +92,7 @@
 - Maintained detailed records of sales, purchases, and inventory to ensure smooth business operations.
 - Provided regular updates to stakeholders on sales performance and business growth.
 
-- **Key Skills and Achievements:**
+ **Key Skills and Achievements:**
 - Proficient in ERP software and Arabic accounting tools, ensuring seamless financial operations in a bilingual environment.
 - Strong expertise in financial reconciliation, budget management, and compliance reporting.
 - Skilled in online sales management, inventory control, and customer relationship management.
