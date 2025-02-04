@@ -149,7 +149,8 @@
 
 ## 🎓 Education
 ### ** Mastering in Generative AI Future - [Google]
-### ** Bachelor of Commerce  - [Univesity of Karachi]
+### ** Master in Business Administration - [University of Karachi]
+### ** Bachelor of Commerce - [University of Karachi]
 
 ---
 
@@ -172,6 +173,8 @@
 - Badge Awarded HP LIFE Ambassador [(https://www.life-global.org/en/badges/38e21467-d354-4d90-b073-e2fbcd99639a)]
 - Badge Awarded Career Explorer [(https://www.life-global.org/en/badges/d3603794-2e00-4c88-9dcb-979487a37d8a)]
 - Badge Awarded Operational Aspects [(https://www.life-global.org/en/badges/4a459c27-da83-4ff8-ac0e-2aa3305a57cf)]
+- Badge Awarded Fainance Focus [(https://www.life-global.org/en/badges/67943476-648e-4548-8d5f-23ca32e06463)]
+
 ---
 
 ## 🔋 Certifications  
@@ -201,8 +204,11 @@
 - **Certification in Planning a Generative AI Project** 
 - **Certification in Introduction to Generatie AI - Art of the Possible** 
 - **Certification in Effective Leadership** 
-- **Certification in Marketing Target Audienc** 
-- **Certification in Selling Online** 
+- **Certification in Marketing Target Audienc**
+- **Certification in Selling Online**
+- **Certification in Sales Forecasting**
+- **Certification in The Art of Sales: Fundamentals of Selling**
+- **Certification in Finding Funding**
 
 ---
 
