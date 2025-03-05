@@ -2,7 +2,7 @@
 ## Accountant 
 ####  Buraydah, Al Qasim, Saudi Arabia. 📱 +966 581164121 
 ####  Karachi, Pakistan. 📱 +92 317 5440110 
-####  infolmakbar@gmai.com
+####  infolmakbar@gmail.com
 
 ---
 
