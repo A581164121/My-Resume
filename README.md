@@ -73,30 +73,23 @@
 
 **[01-07-2024] - [On Holy Days in Pakistan]**
 
-- Managed daily financial operations, including tracking and reconciling tickets booked through the Head Office and travel agent IDs.
-- Monitored and maintained accurate records of airline bookings by extracting data from airline websites and entering it into the company’s ERP software.
-- Prepared and distributed daily payment statements to travel agents, ensuring timely follow-ups for outstanding payments.
-- Oversaw office expenses, including tracking, recording, and reporting all financial transactions to maintain accurate budgetary control.
-- Collaborated with travel agents and internal teams to resolve payment discrepancies and ensure smooth financial operations.
-- Maintained organized and up-to-date financial records, ensuring compliance with company policies and industry regulations.
-- Utilized ERP software to streamline accounting processes, improving efficiency and accuracy in financial reporting.
-- Provided regular updates to management on financial performance, agent payments, and expense management.
+- Financial Management: Oversaw daily financial operations, ensuring proper tracking, reconciliation, and recording of all transactions related to sponge product sales.
 
- **Wholesaler – High-Quality Polyester and Sponge Products**
+- Accounts Payable & Receivable: Managed vendor payments, customer invoicing, and ensured timely collections, minimizing outstanding receivables.
 
-- Managed online sales and handled all dealings as a wholesaler of high-quality polyester and sponge products.
-- Built and maintained strong relationships with clients, ensuring timely delivery and customer satisfaction.
-- Oversaw inventory management, ensuring accurate stock levels and efficient order fulfillment.
-- Processed online orders, managed payments, and resolved any customer inquiries or issues promptly.
-- Utilized digital platforms to market products, expand the customer base, and increase sales.
-- Maintained detailed records of sales, purchases, and inventory to ensure smooth business operations.
-- Provided regular updates to stakeholders on sales performance and business growth.
+- Cost Control & Budgeting: Monitored company expenses, optimized cost-efficiency strategies, and prepared financial reports for management decision-making.
 
- **Key Skills and Achievements:**
-- Proficient in ERP software and Arabic accounting tools, ensuring seamless financial operations in a bilingual environment.
-- Strong expertise in financial reconciliation, budget management, and compliance reporting.
-- Skilled in online sales management, inventory control, and customer relationship management.
-- Proven ability to handle multiple responsibilities, including accounting and wholesale operations, with a focus on accuracy and efficiency.
+- Inventory & Procurement Accounting: Worked closely with the warehouse team to maintain accurate stock levels, track inventory costs, and streamline procurement processes.
+
+- Compliance & Audit: Ensured adherence to accounting standards, tax regulations, and company policies, preparing financial documents for internal and external audits.
+
+- Team Leadership: Supervised accounting staff, provided training on ERP software, and improved workflow efficiency.
+
+- Banking & Reconciliation: Managed company bank accounts, performed monthly bank reconciliations, and ensured smooth financial transactions.
+
+- Financial Reporting: Prepared profit & loss statements, balance sheets, and sales performance reports for strategic decision-making.
+
+- Pricing & Profitability Analysis: Assisted in setting competitive product pricing by analyzing market trends, production costs, and sales data.
 
 ## 🏆 Work Experience  
 **Account's Manager**  
