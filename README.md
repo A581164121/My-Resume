@@ -39,7 +39,7 @@
 - **ERP Systems Knowledge**
 - **AI Tools for Financial Automation**
 - **Programming Languages:** Python, C++
-- **Web Development:** HTML, CSS, React
+- **Web Development:** JavaScript, TML, CSS, React
 
 ---
 
@@ -142,7 +142,7 @@
 
 ## 🎓 Education
 ### ** Mastering in Generative AI Future - [Google]
-### ** Master in Business Administration - [University of Karachi]
+### ** Master in Business Administration Essentails - [Coursera]
 ### ** Bachelor of Commerce - [University of Karachi]
 
 ---
