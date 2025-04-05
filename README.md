@@ -1,5 +1,5 @@
 # MUHAMMAD AKBAR AZIZI
-## Accountant 
+## AI & Digital Transformation Advocate | From Ledgers to LLMs 
 ####  Buraydah, Al Qasim, Saudi Arabia. 📱 +966 581164121 
 ####  Karachi, Pakistan. 📱 +92 317 5440110 
 ####  infolmakbar@gmail.com
