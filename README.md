@@ -142,8 +142,8 @@
 
 ## 🎓 Education
 ### ** Mastering in Generative AI Future - [Google]
-### ** Master in Business Administration Essentails - [Coursera]
-### ** Bachelor of Commerce - [University of Karachi]
+### ** Master in Business Administration Essentails - [University of Glasgow-Scotland]
+### ** Bachelor of Commerce - [University of Karachi-Pakistan]
 
 ---
 
