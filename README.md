@@ -60,6 +60,8 @@
 - **Social Media Management for Financial Branding**
 - **AI Tools for Content Humanization and Plagiarism Detection**
 
+---
+
 ## 📔 Additional Skills:
 - **File and Document Management**
 - **Compliance with Financial Regulations** (GAAP, IFRS)
@@ -67,35 +69,31 @@
 - **Project Management for Financial Initiatives**
 - **Multitasking in Fast-Paced Environments**
 
+---
+
 ## 🏆 Work Experience  
 **Account's Manager**  
 **[Distinguished Sponge Trading Est]** – [AL Qasim, Saudi Arabia]  
 
-**[01-07-2024] - [On Holy Days in Pakistan]**
+**[2024] - [On Holy Days in Pakistan]**
 
 - Financial Management: Oversaw daily financial operations, ensuring proper tracking, reconciliation, and recording of all transactions related to sponge product sales.
-
 - Accounts Payable & Receivable: Managed vendor payments, customer invoicing, and ensured timely collections, minimizing outstanding receivables.
-
 - Cost Control & Budgeting: Monitored company expenses, optimized cost-efficiency strategies, and prepared financial reports for management decision-making.
-
 - Inventory & Procurement Accounting: Worked closely with the warehouse team to maintain accurate stock levels, track inventory costs, and streamline procurement processes.
-
 - Compliance & Audit: Ensured adherence to accounting standards, tax regulations, and company policies, preparing financial documents for internal and external audits.
-
 - Team Leadership: Supervised accounting staff, provided training on ERP software, and improved workflow efficiency.
-
 - Banking & Reconciliation: Managed company bank accounts, performed monthly bank reconciliations, and ensured smooth financial transactions.
-
 - Financial Reporting: Prepared profit & loss statements, balance sheets, and sales performance reports for strategic decision-making.
-
 - Pricing & Profitability Analysis: Assisted in setting competitive product pricing by analyzing market trends, production costs, and sales data.
+
+---
 
 ## 🏆 Work Experience  
 **Account's Manager**  
 **[Azla Travels & Tourism]** – [Riyadh, Saudi Arabia]  
 
-**[16-02/2024] - [28-06-2024]**
+**[2024] - [2024]**
 
 - Managed daily financial operations, including tracking and reconciling tickets booked through the Head Office and travel agent IDs.
 - Monitored and maintained accurate records of airline bookings by extracting data from airline websites and entering it into the company’s ERP software.
@@ -106,10 +104,12 @@
 - Utilized ERP software to streamline accounting processes, improving efficiency and accuracy in financial reporting.
 - Provided regular updates to management on financial performance, agent payments, and expense management.
 
+---
+
 ### 🏆**General Account Manager**  
 **[AL Quwa Al Aula Elevator, Al Roughi Elevator, Ujra Jeddah (Texi)]** - [Under One Sponsor] – [Jeddah, Saudi Arabia]  
 
-**[01-06-2016] – [31-01-2024]**
+**[2016] – [2024]**
 
 - Prepared and maintained Account Summary Statements for VAT%, ensuring compliance with tax regulations and timely submissions.
 - Monitored and followed up on bank advices and PRCs, ensuring accurate posting and reconciliation in the ERP system.
@@ -137,6 +137,73 @@
 - Collaborated with multiple companies under one sponsor, ensuring seamless financial operations across all entities.
 - Provided financial insights and reports to management, supporting decision-making and strategic planning.
 - Acted as a bridge between Arabic and English-speaking stakeholders, ensuring clear and effective communication.
+
+---
+
+## 🏆**Back-end Import Operations-From to Production**  
+**[Artistic Milliners)]** – [Karachi, Pakistan]  
+
+**[2014] – [2016]**
+
+- **Key Responsibilities:**
+- Coordinated with international suppliers to manage purchase orders and shipping schedules. 
+- Handled complete import documentation, including LCs, invoices, packing lists, and bill of lading. 
+- Ensured compliance with customs regulations and government import policies. 
+- Liaised with freight forwarders and clearing agents for timely clearance of shipments. 
+- Tracked shipment status, managed delays, and ensured cost-effective logistics solutions. 
+- Maintained accurate records for all imports, contributing to audit readiness and transparency. 
+- Collaborated with procurement, warehouse, and production teams to streamline supply chain efficiency. 
+
+- **Key Responsibilities:**
+- Coordinated with international suppliers to manage purchase orders and shipping schedules. 
+- Handled complete import documentation, including LCs, invoices, packing lists, and bill of lading. 
+- Ensured compliance with customs regulations and government import policies. 
+- Liaised with freight forwarders and clearing agents for timely clearance of shipments. 
+- Tracked shipment status, managed delays, and ensured cost-effective logistics solutions. 
+- Maintained accurate records for all imports, contributing to audit readiness and transparency. 
+- Collaborated with procurement, warehouse, and production teams to streamline supply chain efficiency. 
+
+- **Achievements:**
+- Reduced shipment delays by implementing proactive tracking and coordination procedures. 
+- Played a key role in maintaining uninterrupted supply of materials for production needs. 
+- Contributed to cost savings through vendor communication and improved documentation accuracy. 
+- Built strong relationships with suppliers and clearing agents for smooth import operations. 
+
+---
+
+## 🏆**Import & Sale Coordinator**  
+**[Imran Traders)]** – [Karachi, Pakistan]  
+
+**[2012] – [2014]**
+
+- **Key Responsibilities & Achievements:**
+- Handled import processes including documentation, clearance, and vendor coordination. 
+- Managed purchase and sales cycles, maintaining strong supplier and customer relationships. 
+- Oversaw product finishing, inventory management, and quality control. 
+- Performed accounting tasks such as invoicing, cash flow tracking, and reconciliation. 
+- Maintained accurate financial records using appropriate tools and software. 
+- Acted as a key point of contact for customers, ensuring timely communication and service. 
+- Contributed to business growth through efficient resource management and cost control. 
+- Supported decision-making by providing data insights and reports to the management. 
+
+---
+
+## 🏆**Finance and Production Lead – Leather Industry**  
+**[Shukat International)]** – [Karachi, Pakistan]  
+
+- **[2008] – [2012]**
+
+- **Key Responsibilities & Achievements:**
+- Managed day-to-day accounting tasks, including ledgers, receivables/payables, and reconciliations. 
+- Prepared financial statements, managed budgets, and ensured audit compliance. 
+- Oversaw payroll, vendor payments, and inventory costing. 
+- Implemented process improvements to streamline accounting operations. 
+
+- **Tannery & Production Supervision:**
+- Supervised the entire leather processing workflow, from raw hides to finished goods. 
+- Coordinated with procurement, chemical treatment, and finishing teams to ensure timely delivery. 
+- Ensured quality control and production standards were consistently met. 
+- Managed team performance and optimized workflow to reduce delays and costs. 
 
 ---
 
