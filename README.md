@@ -237,7 +237,9 @@
 
 ---
 
-## 🔋 Certifications  
+## 🔋 Certifications 
+- **Certificate in Prompt Engineering for LLMs**
+- - **Certification in Data Science & Analytics**
 - **Certification in Business Communications** 
 - **Certification in Inventory Management** 
 - **Certification in IT for Business Success** 
@@ -251,7 +253,6 @@
 - **Certification in Unique Value Propostion** 
 - **Certification in Effective Presentations** 
 - **Certification in Introduction to Digital Business Skills** 
-- **Certification in Data Science & Analytics** 
 - **Certification in Effective Leadership** 
 - **Certification in Agile Progect Managment** 
 - **Certification in Circular Economy** –
