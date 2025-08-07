@@ -267,7 +267,7 @@
 ## 📫 Let's Connect!  
 - **LinkedIn:** [(https://www.linkedin.com/in/muhammad-akbar-45752470/)]  
 - **GitHub:** [(https://github.com/A581164121/My-Resume/blob/main/README.md)]  
-- **Portfolio:** [Portfolio Website Link]  
+- **Portfolio:**  [(https://muhammad-akbar-azizi-n0a6xmx.gamma.site/)]  
 - **Email:** [(infolmakbar@gmail.com)]  
 
 ---
