@@ -55,8 +55,12 @@
 
 ## 🧬 Digital and AI-Enhanced Skills:
 - **AI-Driven Financial Analysis**
+- **Content Writing & Blogging for Finance and Tech Niches**
+- **SEO Writing & On-Page Optimization for Websites**
+- **Keyword Research and SEO Strategy Planning**
 - **Content Creation for Financial Blogs and Reports**
-- **Digital Marketing Strategies** Google AdSense, Meta Marketing, Facebooke Ads, TikTok Ads, Affliate Marketing
+- **Digital Marketing Strategies** (Google AdSense, Meta Marketing, Facebook Ads, TikTok Ads, Affiliate Marketing)**
+- **Social Media Management for Financial Branding**
 - **Social Media Management for Financial Branding**
 - **AI Tools for Content Humanization and Plagiarism Detection**
 
@@ -214,19 +218,7 @@
 
 ---
 
-## 🏆 Projects  
-
-### **[Project Name]**  
-- **Description:**  
-- **Technologies Used:**  
-- **GitHub Link:**  
-
-### **[Project Name]**  
-- **Description:**  
-- **Technologies Used:** 
-- **GitHub Link:**  
-
----
+## 🏆 Projects
 
 ## 🌟 Achievements  
 - Badge Awarded Digital Skills Builder [(https://www.life-global.org/en/badges/eb7cc2e4-5c7a-4f71-bb37-2fc5a2ed975d)]   
@@ -239,7 +231,7 @@
 
 ## 🔋 Certifications 
 - **Certificate in Prompt Engineering for LLMs**
-- - **Certification in Data Science & Analytics**
+- **Certification in Data Science & Analytics**
 - **Certification in Business Communications** 
 - **Certification in Inventory Management** 
 - **Certification in IT for Business Success** 
