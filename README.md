@@ -61,7 +61,6 @@
 - **Content Creation for Financial Blogs and Reports**
 - **Digital Marketing Strategies** (Google AdSense, Meta Marketing, Facebook Ads, TikTok Ads, Affiliate Marketing)**
 - **Social Media Management for Financial Branding**
-- **Social Media Management for Financial Branding**
 - **AI Tools for Content Humanization and Plagiarism Detection**
 
 ---
