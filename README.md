@@ -78,7 +78,7 @@
 **Account's Manager**  
 **[Distinguished Sponge Trading Est]** – [AL Qasim, Saudi Arabia]  
 
-**[2024] - [On Holy Days in Pakistan]**
+**[2024-2025] - [On Holy Days in Pakistan]**
 
 - Financial Management: Oversaw daily financial operations, ensuring proper tracking, reconciliation, and recording of all transactions related to sponge product sales.
 - Accounts Payable & Receivable: Managed vendor payments, customer invoicing, and ensured timely collections, minimizing outstanding receivables.
