@@ -220,6 +220,7 @@
 ## 🏆 Projects
 
 ## 🌟 Achievements  
+- Badge Awarded Fundamental of Digital Marketing [(https://skillshop.exceedlms.com/student/award/ZeaDVcLAJDLYHS6pBTwtS1gR)]
 - Badge Awarded Digital Skills Builder [(https://www.life-global.org/en/badges/eb7cc2e4-5c7a-4f71-bb37-2fc5a2ed975d)]   
 - Badge Awarded HP LIFE Ambassador [(https://www.life-global.org/en/badges/38e21467-d354-4d90-b073-e2fbcd99639a)]
 - Badge Awarded Career Explorer [(https://www.life-global.org/en/badges/d3603794-2e00-4c88-9dcb-979487a37d8a)]
@@ -230,6 +231,7 @@
 
 ## 🔋 Certifications 
 - **Certificate in Prompt Engineering for LLMs**
+- **Certificate in Fundamental of Digital Marketing**
 - **Certification in Data Science & Analytics**
 - **Certification in Business Communications** 
 - **Certification in Inventory Management** 
