@@ -220,6 +220,7 @@
 ## 🏆 Projects
 
 ## 🌟 Achievements  
+- Badge Awarded Search Engine Optimization (SEO) with Squarespace [(https://www.coursera.org/account/accomplishments/certificate/RL0TJJS5D23K)]
 - Badge Awarded Fundamental of Digital Marketing [(https://skillshop.exceedlms.com/student/award/ZeaDVcLAJDLYHS6pBTwtS1gR)]
 - Badge Awarded Digital Skills Builder [(https://www.life-global.org/en/badges/eb7cc2e4-5c7a-4f71-bb37-2fc5a2ed975d)]   
 - Badge Awarded HP LIFE Ambassador [(https://www.life-global.org/en/badges/38e21467-d354-4d90-b073-e2fbcd99639a)]
@@ -233,6 +234,7 @@
 - **Certificate in Prompt Engineering for LLMs**
 - **Certificate in Fundamental of Digital Marketing**
 - **Certification in Data Science & Analytics**
+- **Certification in Search Engine Optimization (SEO)**
 - **Certification in Business Communications** 
 - **Certification in Inventory Management** 
 - **Certification in IT for Business Success** 
