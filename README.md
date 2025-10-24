@@ -220,13 +220,15 @@
 ## 🏆 Projects
 
 ## 🌟 Achievements  
-- Badge Awarded Search Engine Optimization (SEO) with Squarespace [(https://www.coursera.org/account/accomplishments/certificate/RL0TJJS5D23K)]
-- Badge Awarded Fundamental of Digital Marketing [(https://skillshop.exceedlms.com/student/award/ZeaDVcLAJDLYHS6pBTwtS1gR)]
-- Badge Awarded Digital Skills Builder [(https://www.life-global.org/en/badges/eb7cc2e4-5c7a-4f71-bb37-2fc5a2ed975d)]   
-- Badge Awarded HP LIFE Ambassador [(https://www.life-global.org/en/badges/38e21467-d354-4d90-b073-e2fbcd99639a)]
-- Badge Awarded Career Explorer [(https://www.life-global.org/en/badges/d3603794-2e00-4c88-9dcb-979487a37d8a)]
-- Badge Awarded Operational Aspects [(https://www.life-global.org/en/badges/4a459c27-da83-4ff8-ac0e-2aa3305a57cf)]
-- Badge Awarded Fainance Focus [(https://www.life-global.org/en/badges/67943476-648e-4548-8d5f-23ca32e06463)]
+- Badge Awarded Ijazah (Authorization) in the Recitations and Teaching of the Holy Qur’an https://drive.google.com/drive/u/2/folders/1zmdUoIFxfz5_wpzpXTwd7j-3kWOYrH4y
+- Badge Awarded Search Engine Optimization (SEO) with Squarespace https://www.coursera.org/account/accomplishments/certificate/RL0TJJS5D23K
+- Badge Awarded Agentic AI Expert https://drive.google.com/drive/u/2/folders/1zmdUoIFxfz5_wpzpXTwd7j-3kWOYrH4y
+- Badge Awarded Fundamental of Digital Marketing [(https://skillshop.exceedlms.com/student/award/ZeaDVcLAJDLYHS6pBTwtS1gR
+- Badge Awarded Digital Skills Builder https://www.life-global.org/en/badges/eb7cc2e4-5c7a-4f71-bb37-2fc5a2ed975d)]   
+- Badge Awarded HP LIFE Ambassador https://www.life-global.org/en/badges/38e21467-d354-4d90-b073-e2fbcd99639a
+- Badge Awarded Career Explorer https://www.life-global.org/en/badges/d3603794-2e00-4c88-9dcb-979487a37d8a
+- Badge Awarded Operational Aspects https://www.life-global.org/en/badges/4a459c27-da83-4ff8-ac0e-2aa3305a57cf
+- Badge Awarded Fainance Focus https://www.life-global.org/en/badges/67943476-648e-4548-8d5f-23ca32e06463
 
 ---
 
